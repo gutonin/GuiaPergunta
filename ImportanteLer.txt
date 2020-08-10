@@ -1,0 +1,11 @@
+Ferramentas e Frameworks Usados no Projeto
+
+Node.js
+Bootstrap
+Express
+BodyParser
+nodemon
+EJS
+Sequelize
+Mysql2
+Mysql
