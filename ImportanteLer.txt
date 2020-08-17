@@ -1,11 +1,13 @@
-Ferramentas e Frameworks Usados no Projeto
+Projeto focado no desenvolvimendo do back-end.
 
-Node.js
-Bootstrap
-Express
-BodyParser
-nodemon
-EJS
-Sequelize
-Mysql2
-Mysql
+Ferramentas e Frameworks Usados no Projeto:
+  Node.js
+  Bootstrap
+  popper
+  Express
+  BodyParser
+  nodemon
+  EJS
+  Sequelize
+  Mysql2
+  Mysql
