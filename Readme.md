@@ -1,2 +1,2 @@
-Verção 3.0 (Funcional)
+Versão 3.0 (Funcional)
 
